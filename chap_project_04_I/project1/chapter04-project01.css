@@ -1,0 +1,73 @@
+#wrap{
+    width: 900px;
+    margin: auto;
+    background-color: #e8eaf6;
+}
+header, footer {
+    color: white;
+    background-color: #1A237E;
+    margin-bottom: 10px;
+  }
+  nav {
+    background-color: #3F51B5;
+    
+  }
+  h1{
+      font-size: 25px;
+  }
+
+.park{
+
+    margin-bottom: 10px;
+
+}
+ .park figcaption{
+
+    background-color: #C5CAE9;
+    font-size: 20px;
+ }
+ .park h3{
+
+    background-color: skyblue;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+
+ }
+
+
+  header p{
+      font-style: italic;
+  }
+  
+  h1, h2, h3 {
+    font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+   }
+nav
+{
+    background-color: #3F51b5;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    
+}
+li{
+    float: left;
+    list-style-type: none;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    color: #3087af;
+}
+li a:hover{
+    background-color: #f50057;
+    color: white
+}
+h3{
+    font-size: large;
+    text-transform: up
+}
